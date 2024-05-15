@@ -1,9 +1,11 @@
-# run app standalone
+## This is a very badly written Node.js backend just to simulate an external credit score api, working with the loan app
+
+## run app standalone
 
 npm install
 npm start
 
-# run app as docker container
+## run app as docker container
 ## cd into credit_score_service directory
 
 ## below command will build a docker image out of this project that will only exist in your local docker registry
